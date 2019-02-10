@@ -1,0 +1,146 @@
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\HomeWork_2.dll.config
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\HomeWork_2.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\HomeWork_2.pdb
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\csc.exe
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\csc.exe.config
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\csc.rsp
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\csi.exe
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\csi.exe.config
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\csi.rsp
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.AppContext.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.Collections.Immutable.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.Console.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.IO.Compression.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.IO.FileSystem.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.IO.Pipes.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.Security.AccessControl.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.Security.Claims.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.ValueTuple.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.Xml.XPath.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\vbc.exe
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\vbc.exe.config
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\vbc.rsp
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\VBCSCompiler.exe
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\roslyn\VBCSCompiler.exe.config
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\EntityFramework.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\EntityFramework.SqlServer.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\Microsoft.Web.Infrastructure.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\System.Web.Helpers.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\System.Web.Mvc.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\System.Web.Razor.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\System.Web.Webpages.Deployment.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\System.Web.Webpages.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\System.Web.Webpages.Razor.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\EntityFramework.xml
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\EntityFramework.SqlServer.xml
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\System.Web.Razor.xml
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\System.Web.Webpages.xml
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\System.Web.Webpages.Deployment.xml
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\System.Web.Webpages.Razor.xml
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\System.Web.Helpers.xml
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\System.Web.Mvc.xml
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\obj\Debug\HomeWork_2.csprojAssemblyReference.cache
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\obj\Debug\HomeWork_2.csproj.CoreCompileInputs.cache
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\obj\Debug\HomeWork_2.csproj.CopyComplete
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\obj\Debug\HomeWork_2.dll
+D:\Computer Science\GlobDev_Academy\Training Projects\MVC Project\HomeWork_2\HomeWork_2\obj\Debug\HomeWork_2.pdb
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\HomeWork_2.dll.config
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\HomeWork_2.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\HomeWork_2.pdb
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\csc.exe
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\csc.exe.config
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\csc.rsp
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\csi.exe
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\csi.exe.config
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\csi.rsp
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.AppContext.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.Collections.Immutable.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.Console.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.IO.Compression.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.IO.FileSystem.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.IO.Pipes.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.Reflection.Metadata.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.Security.AccessControl.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.Security.Claims.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.ValueTuple.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.Xml.XPath.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\vbc.exe
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\vbc.exe.config
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\vbc.rsp
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\VBCSCompiler.exe
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\roslyn\VBCSCompiler.exe.config
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\EntityFramework.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\EntityFramework.SqlServer.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\Microsoft.Web.Infrastructure.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\System.Web.Helpers.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\System.Web.Mvc.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\System.Web.Razor.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\System.Web.Webpages.Deployment.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\System.Web.Webpages.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\System.Web.Webpages.Razor.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\EntityFramework.xml
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\EntityFramework.SqlServer.xml
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\System.Web.Razor.xml
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\System.Web.Webpages.xml
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\System.Web.Webpages.Deployment.xml
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\System.Web.Webpages.Razor.xml
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\System.Web.Helpers.xml
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\System.Web.Mvc.xml
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\obj\Debug\HomeWork_2.csprojAssemblyReference.cache
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\obj\Debug\HomeWork_2.csproj.CoreCompileInputs.cache
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\obj\Debug\HomeWork_2.csproj.CopyComplete
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\obj\Debug\HomeWork_2.dll
+D:\GitHub Project Sharing\HomeWork_2\HomeWork_2\obj\Debug\HomeWork_2.pdb

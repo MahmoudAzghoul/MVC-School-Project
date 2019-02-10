@@ -1,0 +1,29 @@
+﻿
+@{
+    Layout = null;
+    if(Session["StudentID"] == null)
+    {
+        Response.Redirect("~/Login/Index");
+    }
+}
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Index</title>
+    </head>
+<body style="background-image:url('/Content/BackgroundSchool.png');
+             background-repeat:no-repeat;
+             background-size:cover;">
+    <div style="font-size:large; position:absolute; top:40%; left:40%">
+                Welcome @Session["UserName"].ToString()
+                <br />
+                @Html.ActionLink("Student List", "Index", "Students")
+                <br />
+                <a href="@Url.Action("Logout","Login")">Logout</a>
+    </div>
+</body>
+</html>
+
